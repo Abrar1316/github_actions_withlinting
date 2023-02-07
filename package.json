@@ -41,15 +41,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abrar1316/github_actions_nolinting.git"
+    "url": "git+https://github.com/Abrar1316/github_actions_withlinting.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abrar1316/github_actions_nolinting/issues"
+    "url": "https://github.com/Abrar1316/github_actions_withlinting/issues"
   },
-  "homepage": "https://github.com/Abrar1316/github_actions_nolinting#readme",
+  "homepage": "https://github.com/Abrar1316/github_actions_withlinting#readme",
   "devDependencies": {
     "eslint": "8.33.0"
   }
